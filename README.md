@@ -23,4 +23,4 @@ Sistemas Operativos | Base de Datos
 
 
 # Logotipo Tux
-![Tux](/logotipo/Tux.svg.png)
+![Tux](/logotipo/Tux.png)
