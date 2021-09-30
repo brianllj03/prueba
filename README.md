@@ -18,5 +18,9 @@ _El texto **combinado** con todo_
 
 Lunes | Martes
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Lenguaje de Marcas | Lenguaje de Marcas
+Sistemas Operativos | Base de Datos
+
+
+# Logotipo Tux
+![Tux](/logotipo/Tux.svg.png)
